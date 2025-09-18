@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3DA9FC&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Desenvolvedor+Front-End+%F0%9F%9A%80;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Especialista+em+React+%26+TypeScript;Criando+solu%C3%A7%C3%B5es+para+a+%C3%A1rea+da+sa%C3%BAde+%F0%9F%8F%A5)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3DA9FC&center=true&vCenter=true&width=435&lines=Desenvolvedor+Front-End+%F0%9F%9A%80)
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   
@@ -28,6 +28,18 @@
 
 <br>
 
+## 🐍 Snake Game - Commits Sendo Devorados!
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KelvinRgnz/KelvinRgnz/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KelvinRgnz/KelvinRgnz/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KelvinRgnz/KelvinRgnz/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+
 ## 📊 Estatísticas GitHub
 
 <div align="center">
@@ -44,10 +56,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KelvinRgnz&theme=dracula&hide_border=true&radius=10" />
 </div>
-
-<br>
-
-
 
 <br>
 
